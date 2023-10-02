@@ -1,16 +1,16 @@
 {
   "client_dll": {
-    "dwEntityList" = 0x178B898,
-    "dwLocalPlayerController" = 0x17DA118
+    "dwEntityList": 0x178B898,
+    "dwLocalPlayerController": 0x17DA118
   },
   "CCSPlayerController": {
     "m_hPlayerPawn": 2044,
-  }.
+  },
   "C_BaseEntity": {
-     "m_iTeamNum" = 0x3BF,
-      "m_iHealth" = 0x32C,
+     "m_iTeamNum": 0x3BF,
+      "m_iHealth": 0x32C,
   },
   "C_CSPlayerPawnBase": {
-      "m_iIDEntIndex" = 0x152C,
+      "m_iIDEntIndex": 0x152C,
   },
 }
