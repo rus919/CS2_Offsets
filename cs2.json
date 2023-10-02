@@ -8,7 +8,8 @@
     "dwLocalPlayerPawn": 25660424,
     "dwLocalPlayerController": 25010456,
     "dwGlobalVars": 23653608,
-    "dwViewAngles": 26052016
+    "dwViewAngles": 26052016,
+    "dwViewMatrix": 25663216
   },
   "CCSPlayerController": {
     "m_hPlayerPawn": 2044,
