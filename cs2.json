@@ -1,6 +1,7 @@
 {
   "client_dll": {
     "dwEntityList": 24688792,
+    "dwLocalPlayerPawn": 25660424,
     "dwLocalPlayerController": 25010456,
     "dwGlobalVars": 23653608,
     "dwViewAngles": 26052016
