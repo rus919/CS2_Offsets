@@ -1,16 +1,26 @@
 {
   "client_dll": {
     "dwEntityList": 24688792,
-    "dwLocalPlayerController": 25010456
+    "dwLocalPlayerController": 25010456,
+    "dwGlobalVars": 23653608,
+    "dwViewAngles": 26052016,
   },
   "CCSPlayerController": {
-    "m_hPlayerPawn": 2044
+    "m_hPlayerPawn": 2044,
+    "m_iPawnHealth": 2056
   },
   "C_BaseEntity": {
      "m_iTeamNum": 959,
       "m_iHealth": 812
   },
   "C_CSPlayerPawnBase": {
-      "m_iIDEntIndex": 5420
+      "m_iIDEntIndex": 5420,
+      "m_angEyeAngles": 5376
+  },
+  "C_BasePlayerPawn": {
+      "m_vOldOrigin": 4628
+  },
+  "CBasePlayerController": {
+      "m_iszPlayerName": 1552
   }
 }
