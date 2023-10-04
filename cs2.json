@@ -1,11 +1,11 @@
 {
   "client_dll": {
-    "dwEntityList": 24697032,
-    "dwLocalPlayerPawn": 25668648,
+    "dwEntityList": 24697048,
+    "dwLocalPlayerPawn": 25668664,
     "dwLocalPlayerController": 25018696,
-    "dwGlobalVars": 23661816,
-    "dwViewAngles": 26060224,
-    "dwViewMatrix": 25671440
+    "dwGlobalVars": 23661864,
+    "dwViewAngles": 26060528,
+    "dwViewMatrix": 25671456
   },
   "CCSPlayerController": {
     "m_hPlayerPawn": 2044,
