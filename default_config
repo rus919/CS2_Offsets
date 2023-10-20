@@ -1,0 +1,6 @@
+{
+	"app":{
+		"parameter_name":"default_value",
+		"another_parameter":"default_value_2"
+	}
+}
