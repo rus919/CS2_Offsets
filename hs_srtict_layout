@@ -1,0 +1,8 @@
+{
+  "loginsystem": {
+    "window_clr": "#1a1a1a"
+  },
+  "app": {
+    "test_var": "hello"
+  }
+}
