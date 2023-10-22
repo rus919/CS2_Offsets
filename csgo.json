@@ -1,35 +1,128 @@
 {
   "ClientDll": {
-    "dwBaseEntityModel_setModel": 5756320,
-    "dwEntityList": 24731336,
-    "dwForceAttack": 23711312,
-    "dwForceAttack2": 23711456,
-    "dwForceBackward": 23712032,
-    "dwForceCrouch": 23712752,
-    "dwForceForward": 23711888,
-    "dwForceJump": 23712608,
-    "dwForceLeft": 23712176,
-    "dwForceRight": 23712320,
-    "dwGameEntitySystem_getBaseEntity": 6294432,
-    "dwGameEntitySystem_getHighestEntityIndex": 6236304,
-    "dwGameRules": 25107448,
-    "dwGlobalVars": 23695168,
-    "dwGlowManager": 25105272,
-    "dwInterfaceLinkList": 26724920,
-    "dwLocalPlayerController": 25053416,
-    "dwLocalPlayerPawn": 25703336,
-    "dwPlantedC4": 25731664,
-    "dwViewAngles": 26095296,
-    "dwViewMatrix": 25706128,
-    "dwViewRender": 25708680
+    "data": {
+      "dwBaseEntityModel_setModel": {
+        "value": 5757552,
+        "comment": null
+      },
+      "dwEntityList": {
+        "value": 24741688,
+        "comment": null
+      },
+      "dwForceAttack": {
+        "value": 23715408,
+        "comment": null
+      },
+      "dwForceAttack2": {
+        "value": 23715552,
+        "comment": null
+      },
+      "dwForceBackward": {
+        "value": 23716128,
+        "comment": null
+      },
+      "dwForceCrouch": {
+        "value": 23716848,
+        "comment": null
+      },
+      "dwForceForward": {
+        "value": 23715984,
+        "comment": null
+      },
+      "dwForceJump": {
+        "value": 23716704,
+        "comment": null
+      },
+      "dwForceLeft": {
+        "value": 23716272,
+        "comment": null
+      },
+      "dwForceRight": {
+        "value": 23716416,
+        "comment": null
+      },
+      "dwGameEntitySystem_getBaseEntity": {
+        "value": 6295664,
+        "comment": null
+      },
+      "dwGameEntitySystem_getHighestEntityIndex": {
+        "value": 6237536,
+        "comment": null
+      },
+      "dwGameRules": {
+        "value": 25117816,
+        "comment": null
+      },
+      "dwGlobalVars": {
+        "value": 23699264,
+        "comment": null
+      },
+      "dwGlowManager": {
+        "value": 25115640,
+        "comment": null
+      },
+      "dwInterfaceLinkList": {
+        "value": 26735288,
+        "comment": null
+      },
+      "dwLocalPlayerController": {
+        "value": 25063768,
+        "comment": null
+      },
+      "dwLocalPlayerPawn": {
+        "value": 25713704,
+        "comment": null
+      },
+      "dwPlantedC4": {
+        "value": 25742032,
+        "comment": null
+      },
+      "dwViewAngles": {
+        "value": 26105664,
+        "comment": null
+      },
+      "dwViewMatrix": {
+        "value": 25716496,
+        "comment": null
+      },
+      "dwViewRender": {
+        "value": 25719048,
+        "comment": null
+      }
+    },
+    "comment": "client.dll"
   },
   "Engine2Dll": {
-    "dwBuildNumber": 4748564,
-    "dwNetworkGameClient": 4745904,
-    "dwNetworkGameClient_getLocalPlayer": 240,
-    "dwNetworkGameClient_maxClients": 592,
-    "dwNetworkGameClient_signOnState": 576,
-    "dwWindowHeight": 5474004,
-    "dwWindowWidth": 5474000
+    "data": {
+      "dwBuildNumber": {
+        "value": 4748564,
+        "comment": null
+      },
+      "dwNetworkGameClient": {
+        "value": 4745904,
+        "comment": null
+      },
+      "dwNetworkGameClient_getLocalPlayer": {
+        "value": 240,
+        "comment": null
+      },
+      "dwNetworkGameClient_maxClients": {
+        "value": 592,
+        "comment": null
+      },
+      "dwNetworkGameClient_signOnState": {
+        "value": 576,
+        "comment": null
+      },
+      "dwWindowHeight": {
+        "value": 5473916,
+        "comment": null
+      },
+      "dwWindowWidth": {
+        "value": 5473912,
+        "comment": null
+      }
+    },
+    "comment": "engine2.dll"
   }
 }
