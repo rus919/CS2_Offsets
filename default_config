@@ -17,5 +17,8 @@
     "rcs": {
         "enabled": "1",
         "strength": "100"
+    },
+    "settings": {
+        "sensentivity": "1.2"
     }
 }
