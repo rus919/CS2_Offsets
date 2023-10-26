@@ -1,5 +1,5 @@
 {
-  "client_dll": {
+  "ClientDll": {
     "data": {
       "dwBaseEntityModel_setModel": {
         "value": 5761616,
@@ -96,7 +96,7 @@
     },
     "comment": "client.dll"
   },
-  "engine2_dll": {
+  "Engine2Dll": {
     "data": {
       "dwBuildNumber": {
         "value": 4748564,
