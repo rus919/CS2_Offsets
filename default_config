@@ -5,7 +5,8 @@
         "aim_rcs": "1",
         "aim_fov": "2.0",
         "aim_smooth": "6.0",
-        "aim_hitbox": "nearest"
+        "aim_hitbox": "nearest",
+        "aim_key2": "18"
     },
     "triggerbot": {
         "enabled": "1",
