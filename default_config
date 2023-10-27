@@ -2,9 +2,9 @@
     "aimbot": {
         "enabled": "1",
         "aim_key": "1",
+        "aim_rcs": "1",
         "aim_fov": "2.0",
         "aim_smooth": "6.0",
-        "aim_rcs": "1",
         "aim_hitbox": "nearest"
     },
     "triggerbot": {
@@ -12,13 +12,13 @@
         "trigger_key": "18",
         "delay_before_shot": "25",
         "delay_after_shot": "200",
-        "friendly_fire": "0"
+        "friendly_fire": "1"
     },
     "rcs": {
         "enabled": "1",
         "strength": "100"
     },
     "settings": {
-        "sensentivity": "1.2"
+        "sensitivity": "1.2"
     }
 }
