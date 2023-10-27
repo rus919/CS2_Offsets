@@ -12,7 +12,7 @@
         "trigger_key": "18",
         "delay_before_shot": "25",
         "delay_after_shot": "200",
-        "friendly_fire": "1"
+        "friendly_fire": "0"
     },
     "rcs": {
         "enabled": "1",
