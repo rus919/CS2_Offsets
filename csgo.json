@@ -1,12 +1,16 @@
 {
   "client_dll": {
     "data": {
-      "dwBaseEntityModel_setModel": {
-        "value": 5779424,
-        "comment": null
-      },
       "dwEntityList": {
         "value": 24828656,
+        "comment": null
+      },
+      "dwForceAttack": {
+        "value": 23798560,
+        "comment": null
+      },
+      "dwForceAttack2": {
+        "value": 23798704,
         "comment": null
       },
       "dwForceBackward": {
@@ -37,12 +41,8 @@
         "value": 26047200,
         "comment": null
       },
-      "dwGameEntitySystem_getBaseEntity": {
-        "value": 6317552,
-        "comment": null
-      },
       "dwGameEntitySystem_getHighestEntityIndex": {
-        "value": 6259424,
+        "value": 5392,
         "comment": null
       },
       "dwGameRules": {
@@ -66,7 +66,7 @@
         "comment": null
       },
       "dwLocalPlayerPawn": {
-        "value": 23879792,
+        "value": 23827352,
         "comment": null
       },
       "dwPlantedC4": {
