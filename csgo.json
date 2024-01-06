@@ -133,13 +133,4 @@
     },
     "comment": "engine2.dll"
   },
-  "inputsystem_dll": {
-    "data": {
-      "dwInputSystem": {
-        "value": 218976,
-        "comment": null
-      }
-    },
-    "comment": "inputsystem.dll"
-  }
 }
