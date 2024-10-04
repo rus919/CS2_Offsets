@@ -1,8 +1,4 @@
 {
-  "loginsystem": {
-    "window_clr": "#1a1a1a"
-  },
-  "app": {
-    "test_var": "hello"
-  }
+    "current_version": "1.0",
+    "download_link": "https://github.com/username/repo/releases/download/v1.1.0/MyAppInstaller.exe"
 }
